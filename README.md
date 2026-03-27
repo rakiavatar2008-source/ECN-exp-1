@@ -23,8 +23,9 @@
 *Kirchhoff’s Voltage Law (KVL) states that, ‘in an electric network, the algebraic sum of voltages in a closed path is zero’. Since potential at a point is a single value, the sum of all potential drops must be equal when traversing a closed path and coming back to the same point*
 
 **CIRCUIT DIAGRAM:**
-<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/34035b56-532a-4268-8601-555acb82aaa3" />
-<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/a301fd3e-e77e-48cc-b0c5-0853f81224b7" />
+<img width="375" height="551" alt="image" src="https://github.com/user-attachments/assets/9d63b11d-abc3-4fbe-8f61-6d3c36448b42" />
+<img width="355" height="549" alt="image" src="https://github.com/user-attachments/assets/e989f972-a733-454e-b5bc-251f057d0ceb" />
+
 
 
 
@@ -50,7 +51,8 @@
  *5.Reduce the RPS to its minimum value and switch OFF the supply.*
   
  *6.Using the tabulated values, verify Kirchoff’s laws practically, and verify it theoretically.*
-<img width="1527" height="1600" alt="image" src="https://github.com/user-attachments/assets/b4f24ebc-a003-46e0-b05f-714d7be95f23" />
+ <img width="369" height="600" alt="image" src="https://github.com/user-attachments/assets/e0f3f910-0baf-48d4-894d-60ebffb78903" />
+
 
 **RESULT:**
 
